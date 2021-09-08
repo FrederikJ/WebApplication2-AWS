@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mddG1aRz3WUuu8uyO5/v2drtY0jykPr/Vw56tWhqQ0o7WLVcAGtkEcbdipBf3DtkQv65YRJcufnx9HXCjfSR8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frj\\Source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frj\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.9\\microsoft.netcore.app.runtime.linux-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\frj\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.9\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\frj\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.9\\microsoft.netcore.app.host.linux-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

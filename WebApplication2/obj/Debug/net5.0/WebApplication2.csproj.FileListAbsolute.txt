@@ -21,3 +21,4 @@ C:\Users\frj\Source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebAp
 C:\Users\frj\Source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\ref\WebApplication2.dll
 C:\Users\frj\Source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.pdb
 C:\Users\frj\Source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.genruntimeconfig.cache
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
