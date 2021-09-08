@@ -1,0 +1,26 @@
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\WebApplication2
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\about.html
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\CSS\style.css
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\Fonts\Booter - Zero Zero.woff
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\Fonts\Booter - Zero Zero.woff2
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\Images\About.jpg
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\Images\Album 1.png
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\Images\Album 2.jpg
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\Images\Album 3.jpg
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\Images\Album 4.jpg
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\Images\Album 5.jpg
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\Images\Cup.jpg
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\Images\Facebook logo.jpg
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\Images\HeaderbackgroundImage.jpg
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\Images\Shirt.jpeg
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\Images\Spotify logo.png
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\Images\Youtube logo.png
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\index.html
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\JavaSqript\store.js
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\wwwroot\store.html
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\appsettings.json
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\WebApplication2.dll
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\WebApplication2.deps.json
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\WebApplication2.runtimeconfig.json
+C:\Users\frj\Source\repos\WebApplication2\WebApplication2\bin\Release\net5.0\publish\WebApplication2.pdb
